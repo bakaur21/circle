@@ -1,3 +1,5 @@
+#Write a Python program to create a class representing a stack data structure. 
+#Include methods for pushing and popping elements.
 class Stack:
     def __init__(self):
         self.items = []
